@@ -11,7 +11,7 @@
 - 🤖 Experience integrating **Auth0 SSO**, secure APIs  
 - 🎯 Preparing for AI/ML roles & building resume-worthy projects
 - 🌱 Currently deep-diving into: **LangChain, LlamaIndex, Practical ML/NLP**
-- 📫 Reach me: **shashwat.jaiswal75@gmail.com**
+- 📫 Reach me: **shashwatjaiswal425@gmail.com**
 
 ---
 
@@ -62,22 +62,12 @@ Git, GitHub, Postman, VS Code
 - Designed reusable frontend UI components using **Angular 16**  
 - Integrated **Auth0 secure authentication**  
 - Built real-time dashboards with dynamic visualizations  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatJaiswal&show_icons=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatJaiswal" alt="streak" />
-</p>
-
 ---
 
 ### 🌐 Find Me On
 
 <p>
-<a href="https://www.linkedin.com/in/shashwat-jaiswal-/" target="_blank">
+<a href="https://www.linkedin.com/in/shashwatjaiswal425/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
